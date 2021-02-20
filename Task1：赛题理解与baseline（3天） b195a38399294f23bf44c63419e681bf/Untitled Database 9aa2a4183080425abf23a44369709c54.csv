@@ -1,0 +1,5 @@
+﻿FileName,Size,含义
+test_a.zip,314.49MB,测试集A榜图片
+test_a_samplesubmit.csv,46.39KB,测试集A榜提交样例
+train.zip,3.68GB,训练集图片
+train_mask.csv.zip,97.52MB,训练集图片标注
